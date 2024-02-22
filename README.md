@@ -11,6 +11,7 @@ patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev</br>
   >- ./configure --prefix=/opt/riscv</br>
   >- make</br>
   
+![Screenshot from 2024-02-21 15-42-04](https://github.com/HemaPriyaMudium/VSDSquadron-mini/assets/160724714/7b481b5b-dacf-4a36-aa50-de68c174d440)
 
 
 <b></p>2.install Yosys:</p> 
@@ -24,12 +25,16 @@ patchutils bc zlib1g-dev libexpat-dev ninja-build git cmake libglib2.0-dev</br>
 >- sudo make install</br>
 
 
+![Screenshot from 2024-02-21 22-55-21](https://github.com/HemaPriyaMudium/VSDSquadron-mini/assets/160724714/1188e7bd-f55e-42c9-bb4a-0a6c4e489848)
 
 
 <b></p>3.install iverilog: </p>
 >sudo apt-get install iverilog</br>
 
+![Screenshot from 2024-02-21 22-34-24](https://github.com/HemaPriyaMudium/VSDSquadron-mini/assets/160724714/b53f70ff-227a-4002-92b1-9339148e2626)
 
 
 <b></p>4.install gtkwave: </p>
 >sudo apt-get install gtkwave</br>
+
+![Screenshot from 2024-02-21 22-42-29](https://github.com/HemaPriyaMudium/VSDSquadron-mini/assets/160724714/c23067b7-4da1-4e8f-ac8f-26965f553aad)
